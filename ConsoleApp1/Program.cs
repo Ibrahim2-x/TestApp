@@ -5,19 +5,12 @@ namespace ConsoleApp1
     internal class Program
     {
 
-        static void gg()
-        {
-            Console.WriteLine("k");
-            Console.WriteLine("k");
-            Console.WriteLine("k");
-        }
-
-
-
-
         static void Main(string[] args)
         {
             Console.WriteLine("new");
+
+            // الحمدلله المشكلة اتحلت
+
         }
     }
 }
