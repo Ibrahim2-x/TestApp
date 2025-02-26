@@ -8,7 +8,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("New-1");
-
+            // الحمدلله فهمت كل حاجة
         }
     }
 }
