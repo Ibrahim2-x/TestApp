@@ -8,6 +8,8 @@ namespace ConsoleApp1
         static void gg()
         {
             Console.WriteLine("k");
+            Console.WriteLine("k");
+            Console.WriteLine("k");
         }
 
 
