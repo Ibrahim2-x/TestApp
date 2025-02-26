@@ -7,9 +7,7 @@ namespace ConsoleApp1
 
         static void Main(string[] args)
         {
-            Console.WriteLine("new");
-
-            // الحمدلله المشكلة اتحلت
+            Console.WriteLine("Master");
 
         }
     }
